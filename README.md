@@ -1,4 +1,10 @@
 ### Hi there 👋
+### .NET developer | Full stack web developer
+### Love Microsoft .NET Technology and LAMP Stack :blush:
+### Graduated BIT UCSC 2018
+
+<!--
+**dineetha/dineetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **dineetha/dineetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
